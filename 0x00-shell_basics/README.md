@@ -1,1 +1,1 @@
-README.md
+This is a shell basics repo
